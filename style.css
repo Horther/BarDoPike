@@ -1,0 +1,33 @@
+body p {
+    font-family: Roboto, sans-serif;
+}
+
+header {
+    background-color:#c7c74a ;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+#sobre,#instrumentos {
+    background-color: #eee;
+}
+.section-title{
+    font-family: Lobster, sans-serif;
+}
+
+.social-links li {
+    display: inline;
+    list-style: none;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
